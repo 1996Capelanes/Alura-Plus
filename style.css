@@ -47,7 +47,7 @@ body{
 }
 
 .container__botao:hover{
-    background-color: red;
+    background-color: rgb(245, 49, 49);
     color: var(--cor-de-fundo);
     transform: scale(1.2);
     
